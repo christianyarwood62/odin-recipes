@@ -1,0 +1,31 @@
+.recipe-header {
+    color:indianred;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:center;
+    background-color: burlywood;
+    text-decoration-line: underline ;
+}
+
+.main-header {
+    color:blueviolet;
+    text-align: center;
+    background-color: cadetblue;
+}
+h2 {
+    color:RGB(200,100,100);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+}
+
+p {
+    color:darkkhaki;
+}
+
+li {
+    color:red;
+}
+.img-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
